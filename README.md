@@ -16,11 +16,21 @@
 
 需要 64 位元的 Windows。線上對戰、開包和交易需要連上網路並註冊帳號，練習對戰不用。
 
+## 客服
+
+遇到問題或想回報錯誤，請到 Discord：<https://discord.gg/gdUJPyzJmZ>
+
 ## 支持開發
 
 請我喝杯咖啡：<https://ko-fi.com/chon9workshop>
 
 ## 更新紀錄
+
+### v0.1.2
+
+2026-11-04。
+
+- 選單新增 Discord 客服按鈕，遇到問題可以直接來問
 
 ### v0.1.1
 
