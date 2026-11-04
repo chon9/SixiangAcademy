@@ -8,13 +8,25 @@
 
 ## 下載
 
-到 [最新版本](https://github.com/chon9/SixiangAcademy/releases/latest) 下載 `SixiangAcademy-Windows.zip`。這裡只提供遊戲下載檔和更新紀錄，沒有原始碼。
+到 [最新版本](https://github.com/chon9/SixiangAcademy/releases/latest) 下載遊戲。這裡只提供遊戲下載檔和更新紀錄，沒有原始碼。線上對戰、開包和交易需要連上網路並註冊帳號，練習對戰不用。
+
+### Windows
+
+下載 `SixiangAcademy-Windows.zip`。需要 64 位元的 Windows。
 
 1. 把 zip 整個解壓縮。不解壓縮就執行，遊戲會打不開。
 2. 打開資料夾裡的 `SixiangAcademy.exe`。
 3. 如果 Windows 顯示 SmartScreen 警告，按「其他資訊」，再按「仍要執行」。遊戲目前沒有程式碼簽章，所以會出現這個畫面。
 
-需要 64 位元的 Windows。線上對戰、開包和交易需要連上網路並註冊帳號，練習對戰不用。
+### Android（測試版）
+
+下載 `SixiangAcademy-Android.apk`。需要 Android 7 以上的 64 位元手機。
+
+1. 只從官方網站或這裡的版本頁面下載。其他地方的 APK 可能被改過。
+2. 在手機上打開 APK。系統詢問時，允許這次安裝。部分手機可能會顯示額外警告或要求等待。
+3. HarmonyOS 5 以上不能直接安裝 APK。
+
+電腦版和手機版用同一個帳號，學分和收藏相通。牌組存在各裝置上，不會同步。
 
 ## 客服
 
@@ -25,6 +37,13 @@
 請我喝杯咖啡：<https://ko-fi.com/chon9workshop>
 
 ## 更新紀錄
+
+### v0.1.4
+
+2026-11-04。
+
+- 新增 Android 測試版：需要 Android 7 以上的 64 位元手機
+- 和電腦版共用帳號、學分和收藏；牌組存在各裝置上，不會同步
 
 ### v0.1.3
 
